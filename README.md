@@ -1,23 +1,52 @@
-<p align="center">
-  <img src="./terminal.svg" alt="Terminal-style profile card for Pruthvi Girijala" width="100%">
+```text
+pruthvigirijala ─────────────────────────────────────────
+  Name: ................. Pruthvi Girijala
+  Profession: ........... Student @ GRIET
+  Discipline: ........... Electronics & Communication
+
+  Interests ─────────────────────────────────────────────
+
+  Embedded: ............. Microcontrollers, FreeRTOS
+  Signals: .............. FFT Visualizers
+  Audio: ................ Synthesizers, Drumpads
+  Hardware: ............. Robotics, Electronics
+
+  Projects ──────────────────────────────────────────────
+
+  pd_gimbal: ............ Arduino Uno, PD Control
+  proj_dumpad: .......... ESP32-S3, MIDI Controller
+  line_follower: ........ Robotics
+
+  Contact ───────────────────────────────────────────────
+
+  LinkedIn: ............. pruthvi-girijala
+  Email: ................ pruthvi.girijala@gmail.com
+  GitHub: ............... pruthvigirijala
+```
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-89B4FA?style=for-the-badge&logo=cplusplus&logoColor=1E1E2E" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-CBA6F7?style=for-the-badge&logo=python&logoColor=1E1E2E" alt="Python"/>
+  <img src="https://img.shields.io/badge/PlatformIO-FAB387?style=for-the-badge&logo=platformio&logoColor=1E1E2E" alt="PlatformIO"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-94E2D5?style=for-the-badge&logo=freertos&logoColor=1E1E2E" alt="FreeRTOS"/>
+  <img src="https://img.shields.io/badge/Arduino-94E2D5?style=for-the-badge&logo=arduino&logoColor=1E1E2E" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/ESP32-313244?style=for-the-badge&logo=espressif&logoColor=FAB387" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Git-F38BA8?style=for-the-badge&logo=git&logoColor=1E1E2E" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-F9E2AF?style=for-the-badge&logo=linux&logoColor=1E1E2E" alt="Linux"/>
+  <img src="https://img.shields.io/badge/MATLAB-EBA0AC?style=for-the-badge&logo=mathworks&logoColor=1E1E2E" alt="MATLAB"/>
 </p>
 
-## Projects
+## Featured Projects
 
-- **[PD Gimbal](https://github.com/pruthvigirijala/pd_gimbal)** — Arduino Uno, MG995 servo, and ADXL accelerometer with a proportional-derivative (PD) control system. [LinkedIn post](https://lnkd.in/p/d3qwbmRx)
-- **[MIDI Drum Pad](https://github.com/pruthvigirijala/proj_dumpad)** — A custom 4×4 button matrix using the ESP32-S3 as a MIDI controller for a DAW. [LinkedIn post](https://lnkd.in/p/d7cNT3ef)
-- **[Line Follower](https://github.com/pruthvigirijala/line_follower)** — A line-following robotics project.
+- **[pd_gimbal](https://github.com/pruthvigirijala/pd_gimbal)** — PD-controlled gimbal using an Arduino Uno, MG995 servo, and ADXL accelerometer. [LinkedIn](https://lnkd.in/p/d3qwbmRx)
+
+- **[proj_dumpad](https://github.com/pruthvigirijala/proj_dumpad)** — Custom 4×4 button matrix using the ESP32-S3 as a MIDI drum controller for a DAW. [LinkedIn](https://lnkd.in/p/d7cNT3ef)
+
+- **[line_follower](https://github.com/pruthvigirijala/line_follower)** — Line-following robot.
 
 ## Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/pruthvi-girijala-200002308/">
-    <img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&amp;logo=linkedin&amp;logoColor=1E1E2E" alt="LinkedIn">
-  </a>
-  <a href="mailto:pruthvi.girijala@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F38BA8?style=for-the-badge&amp;logo=gmail&amp;logoColor=1E1E2E" alt="Gmail">
-  </a>
-  <a href="https://github.com/pruthvigirijala">
-    <img src="https://img.shields.io/badge/GitHub-CBA6F7?style=for-the-badge&amp;logo=github&amp;logoColor=1E1E2E" alt="GitHub">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/pruthvi-girijala-200002308/"><img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn"/></a>
+<a href="mailto:pruthvi.girijala@gmail.com"><img src="https://img.shields.io/badge/Gmail-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E" alt="Gmail"/></a>
+<a href="https://github.com/pruthvigirijala"><img src="https://img.shields.io/badge/GitHub-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E" alt="GitHub"/></a>
