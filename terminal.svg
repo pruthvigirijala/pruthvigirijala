@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="430" viewBox="0 0 920 430" role="img" aria-labelledby="title desc">
+  <title id="title">pruthvigirijala at GitHub</title>
+  <desc id="desc">Terminal-style profile card showing Pruthvi's engineering focus, interests, and projects.</desc>
+  <rect width="920" height="430" rx="14" fill="#1e1e2e"/>
+  <rect x="1" y="1" width="918" height="428" rx="13" fill="none" stroke="#45475a"/>
+  <rect x="1" y="1" width="918" height="42" rx="13" fill="#181825"/>
+  <path d="M1 30 H919 V43 H1 Z" fill="#181825"/>
+  <circle cx="25" cy="21" r="5" fill="#f38ba8"/>
+  <circle cx="43" cy="21" r="5" fill="#f9e2af"/>
+  <circle cx="61" cy="21" r="5" fill="#a6e3a1"/>
+  <text x="84" y="26" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#a6adc8">pruthvigirijala@github</text>
+  <line x1="300" y1="21" x2="890" y2="21" stroke="#585b70" stroke-width="1.2" stroke-dasharray="2 5"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">
+    <text x="30" y="78" fill="#f9e2af">Name:</text>
+    <text x="255" y="78" fill="#cdd6f4">Pruthvi Girijala</text>
+
+    <text x="30" y="108" fill="#f9e2af">Profession:</text>
+    <text x="255" y="108" fill="#cdd6f4">Student @ GRIET</text>
+
+    <text x="30" y="138" fill="#f9e2af">Discipline:</text>
+    <text x="255" y="138" fill="#cdd6f4">Electronics &amp; Communication</text>
+
+    <text x="30" y="168" fill="#f9e2af">Focus:</text>
+    <text x="255" y="168" fill="#cdd6f4">Embedded Systems, DSP</text>
+
+    <text x="30" y="207" fill="#cba6f7">Interests</text>
+    <line x1="130" y1="201" x2="890" y2="201" stroke="#585b70" stroke-dasharray="2 5"/>
+    <text x="30" y="237" fill="#f9e2af">Embedded:</text>
+    <text x="255" y="237" fill="#89b4fa">Microcontrollers, RTOS</text>
+    <text x="30" y="267" fill="#f9e2af">Signals:</text>
+    <text x="255" y="267" fill="#89b4fa">Digital Signal Processing, Audio</text>
+    <text x="30" y="297" fill="#f9e2af">Hardware:</text>
+    <text x="255" y="297" fill="#89b4fa">Robotics, Electronics</text>
+
+    <text x="30" y="337" fill="#cba6f7">Projects</text>
+    <line x1="115" y1="331" x2="890" y2="331" stroke="#585b70" stroke-dasharray="2 5"/>
+    <text x="30" y="367" fill="#f9e2af">pd_gimbal</text>
+    <text x="255" y="367" fill="#cdd6f4">PD-controlled gimbal · Arduino Uno</text>
+    <text x="30" y="397" fill="#f9e2af">proj_dumpad</text>
+    <text x="255" y="397" fill="#cdd6f4">4×4 MIDI drum pad · ESP32-S3</text>
+    <text x="30" y="423" fill="#f9e2af">line_follower</text>
+    <text x="255" y="423" fill="#cdd6f4">Line-following robot</text>
+  </g>
+</svg>
