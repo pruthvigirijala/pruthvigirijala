@@ -1,5 +1,14 @@
+```
+                  _   _          _       _      _  _       _         
+ _ __  _ __ _   _| |_| |____   _(_) __ _(_)_ __(_)(_) __ _| | __ _   
+| '_ \| '__| | | | __| '_ \ \ / / |/ _` | | '__| || |/ _` | |/ _` |  
+| |_) | |  | |_| | |_| | | \ V /| | (_| | | |  | || | (_| | | (_| |  
+| .__/|_|   \__,_|\__|_| |_|\_/ |_|\__, |_|_|  |_|/ |\__,_|_|\__,_|  
+|_|                                |___/        |__/
+```
+
+
 ```text
-pruthvigirijala ─────────────────────────────────────────
   Name: ................. Pruthvi Girijala
   Profession: ........... Student @ GRIET
   Discipline: ........... Electronics & Communication
@@ -11,19 +20,14 @@ pruthvigirijala ─────────────────────�
   Audio: ................ Synthesizers, Drumpads
   Hardware: ............. Robotics, Electronics
 
-  Projects ──────────────────────────────────────────────
-
-  pd_gimbal: ............ Arduino Uno, PD Control
-  proj_dumpad: .......... ESP32-S3, MIDI Controller
-  line_follower: ........ Robotics
-
   Contact ───────────────────────────────────────────────
 
   LinkedIn: ............. pruthvi-girijala
   Email: ................ pruthvi.girijala@gmail.com
   GitHub: ............... pruthvigirijala
 ```
-## Tech Stack
+
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C++-89B4FA?style=for-the-badge&logo=cplusplus&logoColor=1E1E2E" alt="C++"/>
@@ -36,17 +40,3 @@ pruthvigirijala ─────────────────────�
   <img src="https://img.shields.io/badge/Linux-F9E2AF?style=for-the-badge&logo=linux&logoColor=1E1E2E" alt="Linux"/>
   <img src="https://img.shields.io/badge/MATLAB-EBA0AC?style=for-the-badge&logo=mathworks&logoColor=1E1E2E" alt="MATLAB"/>
 </p>
-
-## Featured Projects
-
-- **[pd_gimbal](https://github.com/pruthvigirijala/pd_gimbal)** — PD-controlled gimbal using an Arduino Uno, MG995 servo, and ADXL accelerometer. [LinkedIn](https://lnkd.in/p/d3qwbmRx)
-
-- **[proj_dumpad](https://github.com/pruthvigirijala/proj_dumpad)** — Custom 4×4 button matrix using the ESP32-S3 as a MIDI drum controller for a DAW. [LinkedIn](https://lnkd.in/p/d7cNT3ef)
-
-- **[line_follower](https://github.com/pruthvigirijala/line_follower)** — Line-following robot.
-
-## Connect
-
-<a href="https://www.linkedin.com/in/pruthvi-girijala-200002308/"><img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn"/></a>
-<a href="mailto:pruthvi.girijala@gmail.com"><img src="https://img.shields.io/badge/Gmail-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E" alt="Gmail"/></a>
-<a href="https://github.com/pruthvigirijala"><img src="https://img.shields.io/badge/GitHub-CBA6F7?style=for-the-badge&logo=github&logoColor=1E1E2E" alt="GitHub"/></a>
